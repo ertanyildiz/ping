@@ -6,3 +6,5 @@ Usage
 
 ----------
  Set `public List<Device> Devices { get; set; }` to your custom list then run!
+
+![alt text](https://raw.githubusercontent.com/ertanyildiz/ping/master/ServerMonitor/ss.png)
