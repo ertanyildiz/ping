@@ -181,7 +181,7 @@ namespace ServerMonitor
         }
         /// <summary>
         /// Check each devices in the Devices. Send ping to each devices.
-        /// Set the button color to ping result (yellow or red).
+        /// Set the button color to ping result (green or red).
         /// </summary>
         private async void SendPing()
         {
